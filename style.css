@@ -42,3 +42,9 @@ h1 {
     width: 100px;
     height: 100px;
 }
+
+#final_result {
+    background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 5px;
+}
